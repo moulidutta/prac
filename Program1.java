@@ -5,7 +5,8 @@ public static void main(String[] args){
 	a=b;
 	b=temp;
 	temp=a;
-	c=a*b
+	c=a*b;
+	d+=c;
 
 
 	System.out.println(a);
